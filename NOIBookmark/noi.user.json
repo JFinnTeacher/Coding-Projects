@@ -1,13 +1,6 @@
 {
   "name": "Noi Cache Mode",
   "version": "0.1.9",
-  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
-  "mode_main": "https://github.com",
-  "mode_tray": "https://chat.openai.com",
-  "mode_partition": "",
-  "ua_main": "",
-  "ua_tray": "",
-  "noi_ask": [],
   "modes": [
     {
       "id": "a25b04d0810f447e9b9791888913bd2b",
