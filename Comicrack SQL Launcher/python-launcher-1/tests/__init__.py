@@ -1,0 +1,1 @@
+# The file /python-launcher/python-launcher/tests/__init__.py is intentionally left blank.

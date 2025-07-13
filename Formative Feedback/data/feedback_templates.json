@@ -1,0 +1,23 @@
+{
+  "Exam Results": {
+    "A": "{student_name} has demonstrated excellent performance in exams, showing a strong understanding of the material. {pronoun_possessive_cap} effort is commendable.",
+    "B": "{student_name} has achieved good exam results, showing a solid grasp of the subject.",
+    "C": "{student_name} has shown satisfactory exam performance, with room for improvement.",
+    "D": "{student_name} needs to focus more on exam preparation.",
+    "E": "{student_name} needs significant improvement in exam performance."
+  },
+  "Practical Assessment": {
+    "A": "{student_name} shows outstanding practical skills and applies knowledge effectively.",
+    "B": "{student_name} performs well in practical tasks.",
+    "C": "{student_name} completes practical tasks satisfactorily.",
+    "D": "{student_name} struggles with practical tasks.",
+    "E": "{student_name} needs support in developing practical skills."
+  },
+  "Contribution in Class": {
+    "A": "{student_name} contributes enthusiastically in class discussions. {pronoun_possessive_cap} participation is excellent.",
+    "B": "{student_name} participates well in class.",
+    "C": "{student_name} participates satisfactorily in class.",
+    "D": "{student_name} could contribute more actively in class.",
+    "E": "{student_name} rarely participates in class activities."
+  }
+} 

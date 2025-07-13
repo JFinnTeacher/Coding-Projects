@@ -1,0 +1,28 @@
+{
+    "theme": {
+        "background": "#000000",
+        "foreground": "#0080ff",
+        "accent": "#400040",
+        "button_bg": "#000000",
+        "button_fg": "#ffffff",
+        "button_active_bg": "#0000FF",
+        "button_active_fg": "#FFFFFF",
+        "close_button_bg": "#8B0000",
+        "close_button_fg": "#FFFFFF",
+        "close_button_active_bg": "#FF0000"
+    },
+    "timer": {
+        "default_time": 300,
+        "sound_file": "sounds/timer_end.wav"
+    },
+    "name_selector": {
+        "default_group_size": 4,
+        "min_group_size": 2,
+        "max_group_size": 8
+    },
+    "tournament": {
+        "default_teams": 8,
+        "min_teams": 2,
+        "max_teams": 32
+    }
+}

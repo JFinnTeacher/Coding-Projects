@@ -1,0 +1,47 @@
+# README.md
+
+# Python Launcher
+
+Python Launcher is a simple and efficient tool designed to execute Python scripts with ease. It provides a user-friendly interface to manage and run multiple scripts, making it ideal for developers and testers.
+
+## Features
+
+- **Run Scripts**: Execute Python scripts with a single command.
+- **Script Management**: Easily add and manage scripts to be executed.
+- **Logging**: Built-in logging functionality to track script execution.
+
+## Installation
+
+To install the required dependencies, run:
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+To use the Python Launcher, you can create an instance of the `Launcher` class and utilize its methods to add and run scripts.
+
+```python
+from src.launcher import Launcher
+
+launcher = Launcher()
+launcher.add_script('path/to/your/script.py')
+launcher.run()
+```
+
+## Running Tests
+
+To run the unit tests for the project, use:
+
+```
+pytest tests/
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bugs.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.

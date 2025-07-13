@@ -1,0 +1,2 @@
+setuptools
+mysql-connector-python

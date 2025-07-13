@@ -1,0 +1,63 @@
+{
+  "junior_cert": [
+    {
+      "max_mark": 100,
+      "descriptor": "Distinction"
+    },
+    {
+      "max_mark": 90,
+      "descriptor": "Higher Merit"
+    },
+    {
+      "max_mark": 75,
+      "descriptor": "Merit"
+    },
+    {
+      "max_mark": 55,
+      "descriptor": "Achieved"
+    },
+    {
+      "max_mark": 40,
+      "descriptor": "Partially Achieved"
+    },
+    {
+      "max_mark": 20,
+      "descriptor": "Not Graded"
+    }
+  ],
+  "leaving_cert": [
+    {
+      "range": "90 - 100",
+      "descriptor": "H1 / O1"
+    },
+    {
+      "range": "80 < 90",
+      "descriptor": "H2 / O2"
+    },
+    {
+      "range": "70 < 80",
+      "descriptor": "H3 / O3"
+    },
+    {
+      "range": "60 < 70",
+      "descriptor": "H4 / O4"
+    },
+    {
+      "range": "50 < 60",
+      "descriptor": "H5 / O5"
+    },
+    {
+      "range": "40 < 50",
+      "descriptor": "H6 / O6"
+    },
+    {
+      "range": "30 < 40",
+      "descriptor": "H7 / O7"
+    },
+    {
+      "range": "0 < 30",
+      "descriptor": "H8 / O8"
+    }
+  ],
+  "class_participation": []
+}
