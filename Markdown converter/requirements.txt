@@ -1,4 +1,4 @@
-markitdown[all]
-customtkinter==5.2.2
-pillow==10.2.0
-markdown2==2.4.12 
+# Consider replacing 'markitdown[all]' with a well-maintained alternative if possible.
+customtkinter>=5.2.2
+pillow>=10.3.0
+markdown2>=2.4.12
