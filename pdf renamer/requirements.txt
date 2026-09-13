@@ -1,0 +1,2 @@
+pypdf>=6.0
+sv-ttk>=2.6  # only needed for pdf-renamer-v2.py
