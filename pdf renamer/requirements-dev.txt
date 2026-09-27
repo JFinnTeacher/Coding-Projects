@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8.0
+pyinstaller>=6.0  # to build the .exe: pyinstaller pdf-renamer-v2.spec
