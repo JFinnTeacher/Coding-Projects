@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Document with a folded corner -->
+  <path d="M56,16 H140 L196,72 V224 a16,16 0 0 1 -16,16 H56 a16,16 0 0 1 -16,-16 V32 a16,16 0 0 1 16,-16 Z"
+        fill="#ffffff" stroke="#8a96a8" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M140,16 V60 a12,12 0 0 0 12,12 H196 Z"
+        fill="#d5dde8" stroke="#8a96a8" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- PDF label -->
+  <rect x="20" y="88" width="136" height="60" rx="10" fill="#d93025"/>
+  <text x="88" y="132" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+        font-size="44" font-weight="700" fill="#ffffff">PDF</text>
+
+  <!-- Text lines -->
+  <rect x="60" y="168" width="84" height="12" rx="6" fill="#c3ccd8"/>
+  <rect x="60" y="192" width="60" height="12" rx="6" fill="#c3ccd8"/>
+
+  <!-- Rename badge: pencil on a blue circle -->
+  <circle cx="190" cy="192" r="56" fill="#005fb8" stroke="#ffffff" stroke-width="8"/>
+  <g transform="rotate(135 190 192)">
+    <rect x="156" y="180" width="46" height="24" rx="3" fill="#ffffff"/>
+    <path d="M202,180 L228,192 L202,204 Z" fill="#ffffff"/>
+    <path d="M220,188.3 L228,192 L220,195.7 Z" fill="#003a70"/>
+    <rect x="142" y="180" width="12" height="24" rx="4" fill="#9fc6ee"/>
+  </g>
+</svg>
