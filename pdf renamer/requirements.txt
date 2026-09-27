@@ -1,2 +1,0 @@
-pypdf>=6.0
-PySide6>=6.5  # only needed for pdf-renamer-v2.py
