@@ -25,7 +25,7 @@ Click a placeholder button under the patterns to insert it into whichever patter
 
 **Leading zeros:** set **Pad {n} with leading zeros to** to make numbers a fixed width, e.g. 3 digits turns `7` into `007`, which keeps files in order when sorted by name. To pad differently in one pattern, write the format out in the pattern, e.g. `{n:02d}`; that takes priority over the box.
 
-**Author pattern:** works the same way and fills the Author column. The Author metadata is only written when a file's Author isn't empty.
+**Author pattern:** works the same way and fills the Author column. If a file's Author is left blank, its existing Author metadata is kept as it was. Other metadata (Subject, Keywords, dates) is always kept.
 
 **Tip:** `{title}` uses the Title column as it is *now*. Applying `Part {n} - {title}` twice gives `Part 1 - Part 1 - ...`. If that happens, click **Reset** or re-add the files.
 
